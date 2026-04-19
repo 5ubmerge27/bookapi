@@ -274,22 +274,4 @@ Filter by genre and order by rating (descending).
 - ✅ Authentication for protected endpoints
 - ✅ Comprehensive error handling
 
-## 📄 License
 
-MIT License
-
-## 👤 Author
-
-Student Project - XJCO3011  
-April 2026
-
-## 📞 Support
-
-For questions or issues:
-- Check the API documentation
-- Use Swagger UI for interactive testing
-- Review sample data and examples
-
----
-
-**Happy Coding! 🚀**
