@@ -274,4 +274,14 @@ Filter by genre and order by rating (descending).
 - ✅ Authentication for protected endpoints
 - ✅ Comprehensive error handling
 
+## 📚 Documentation
 
+### API Documentation
+- **Interactive Documentation**: [Swagger UI](http://127.0.0.1:8000/swagger/)
+- **Complete API Guide**: [API_DOCUMENTATION.md](./API_DOCUMENTATION.md)
+- **PDF Version**: [API_DOCUMENTATION.pdf](./API_DOCUMENTATION.pdf)
+- **Quick Reference**: [API_QUICK_REFERENCE.md](./API_QUICK_REFERENCE.md)
+
+### Technical Documentation
+- **Technical Report**: [TECHNICAL_REPORT.md](./TECHNICAL_REPORT.md)
+- **PDF Version**: [TECHNICAL_REPORT.pdf](./TECHNICAL_REPORT.pdf)
